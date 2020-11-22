@@ -123,6 +123,10 @@
           }
         }
       }
-    }},
-  "defaultProject": "uDev"
+    }
+  },
+  "defaultProject": "uDev",
+  "cli": {
+    "analytics": "a619724d-fa61-4999-9562-8132f8a00e23"
+  }
 }
